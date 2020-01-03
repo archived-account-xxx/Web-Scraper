@@ -1,4 +1,4 @@
-![logo](web-scraper-logo.svg)
+<img src="web-scraper-logo.svg" height="20">
 
 # Welcome
 Hey random person viewing this repo welcome to this Web Scraper created with nodejs.
