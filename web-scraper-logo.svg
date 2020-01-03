@@ -1,11 +1,1 @@
-<?xml version="1.0"?>
-<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" class="cat">
- <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
- <g class="layer">
-  <title>Layer 1</title>
-  <line fill="none" fill-opacity="0" id="svg_4" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="318.5" x2="278.5" y1="153.5" y2="256.5"/>
-  <line fill="none" fill-opacity="0" id="svg_5" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="281.5" x2="354.5" y1="257.5" y2="258.5"/>
-  <line fill="none" fill-opacity="0" id="svg_6" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="318.5" x2="358.5" y1="152.5" y2="259.5"/>
-  <polygon cx="48.5" cy="259.5" edge="116.093832" fill="#000000" fill-opacity="0" id="svg_7" orient="x" points="404.25531005859375,210.5 336.0170593261719,304.421875 225.6052703857422,268.5469055175781 225.6052703857422,152.4530792236328 336.0170593261719,116.57810974121094 404.25531005859375,210.5 " shape="regularPoly" sides="5" stroke="#000000" stroke-width="5" strokeWidth="5" strokecolor="#000000" transform="rotate(-89.1108 314.93 210.5)"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="640" height="480" class="cat"><g class="layer"><title>Layer 1</title><line id="svg_4" x1="318.5" x2="278.5" y1="153.5" y2="256.5" fill="none" fill-opacity="0" stroke="#000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/><line id="svg_5" x1="281.5" x2="354.5" y1="257.5" y2="258.5" fill="none" fill-opacity="0" stroke="#000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/><line id="svg_6" x1="318.5" x2="358.5" y1="152.5" y2="259.5" fill="none" fill-opacity="0" stroke="#000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/><polygon id="svg_7" cx="48.5" cy="259.5" fill="#000" fill-opacity="0" stroke="#000" stroke-width="5" points="404.255 210.5 336.017 304.422 225.605 268.547 225.605 152.453 336.017 116.578 404.255 210.5" edge="116.094" orient="x" shape="regularPoly" sides="5" strokeWidth="5" strokecolor="#000000" transform="rotate(-89.1108 314.93 210.5)"/></g></svg>
