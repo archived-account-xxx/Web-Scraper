@@ -1,3 +1,5 @@
+![logo](web-scraper-logo.svg)
+
 # Welcome
 Hey random person viewing this repo welcome to this Web Scraper created with nodejs.
 
