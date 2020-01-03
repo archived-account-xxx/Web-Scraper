@@ -1,4 +1,6 @@
+<div class="text-align:center;">
 <img src="web-scraper-logo.svg" height="50">
+</div>
 
 # Welcome
 Hey random person viewing this repo welcome to this Web Scraper created with nodejs.
