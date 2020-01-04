@@ -1,4 +1,4 @@
-<div class="text-align:center;">
+<div style="text-align:center;">
 <img src="web-scraper-logo.svg" height="50">
 </div>
 
